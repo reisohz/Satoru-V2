@@ -1,4 +1,4 @@
-git clone https://github.com/tdd2003/NaSaKi-V4/
+git clone https://github.com/reisohz/Satoru-V2
 
 apt-get install golang -y
 
@@ -14,7 +14,7 @@ apt-get install nodejs -y
 
 apt-get install npm -y
 
-cd NaSaKi-V4
+cd Satoru-V2
 
 npm i requests
 
